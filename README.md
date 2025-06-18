@@ -3,14 +3,17 @@
   <img src="https://komarev.com/ghpvc/?username=MUMEi-28&style=flat-square&color=ff69b4" alt="Profile views" />
 </p>
 
+
+
 # 👋 Hi
 
-🎓 BS Computer Science Student  
-🖥️ Game Developer | Web Developer | Programmer  | 3D Artist
-🌐 Open to remote opportunities  
-⚡ Fun fact: I can solve a Rubik's cube in under a minute -_-
 ---
 
+🖥️ Game Developer | Web Developer | Programmer  | 3D Artist  
+🌐 Open to remote opportunities  
+⚡ Fun fact: I can solve a Rubik's cube in under a minute -_-  
+
+---
 ## 📊 GitHub Stats
 
 <p align="center">
@@ -20,5 +23,4 @@
 </p>
 
 ---
-
 
