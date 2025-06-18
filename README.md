@@ -1,16 +1,24 @@
-## Hi there 👋
+<!-- Profile Views -->
+<p align="right">
+  <img src="https://komarev.com/ghpvc/?username=MUMEi-28&style=flat-square&color=ff69b4" alt="Profile views" />
+</p>
 
-<!--
-**MUMEi-28/MUMEi-28** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Hi
 
-Here are some ideas to get you started:
+🎓 BS Computer Science Student  
+🖥️ Game Developer | Web Developer | Programmer  | 3D Artist
+🌐 Open to remote opportunities  
+⚡ Fun fact: I can solve a Rubik's cube in under a minute -_-
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MUMEi-28&show_icons=true&theme=tokyonight" />
+  <br />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MUMEi-28&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+
