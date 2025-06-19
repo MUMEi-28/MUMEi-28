@@ -9,7 +9,7 @@
 
 ---
 
-🖥️ Game Developer | Web Developer | Programmer  | 3D Artist  
+🖥️ Game Developer | Web Developer | 3D Artist  
 🌐 Open to remote opportunities  
 ⚡ Fun fact: I can solve a Rubik's cube in under a minute -_-  
 
